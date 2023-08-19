@@ -3,6 +3,7 @@ function createHome(){
   landingPage.classList.add('section');
   landingPage.setAttribute('id', 'landing')
   
+  
 
 
 
